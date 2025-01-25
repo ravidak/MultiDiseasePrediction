@@ -1,0 +1,1 @@
+streamlit run "C:\Users\ravid\Desktop\Data Analytics\machine learning\projects\multiple disease prediction system\multi_disease_pred.py"
